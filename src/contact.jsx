@@ -14,7 +14,7 @@ function Contact() {
               Contact 
             </h2>
             <p className="mb-16 text-gray-100 sm:text-xl">
-            This is your gateway to connecting with the person of your choice on the Kaduna Business Directory platform. Here, you can send direct messages to individuals you've searched for. 
+            This is your gateway to connecting with the person of your choice on the Business Directory platform. Here, you can send direct messages to individuals you've searched for. 
             </p>
           </div>
         </div>
